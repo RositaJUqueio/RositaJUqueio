@@ -4,6 +4,7 @@
 <li>I'm currently workinking on other frontend projects on freecodecamp</li> 
 <li>I'm currently learning C, Python, HTML, CSS & JavaScript</li>
 <li>I'm looking to collaborate on open source </li>
+<li>Connect with me: I'm sharing my SE journey on twitter</li>
 <li>Fun fact: I speak 7 languages</li>
 </ul></h4>
 

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rosita Jose Uqueio</h1>
 <h3 align="center"> I am an aspiring Software Engineer, currently enrolled at ALX for a 12-Month Software Engineering program</h3>
 <h4 align="left"><ul>
-<li>I'm currently workinking on other frontend projects on freecodecamp</li> 
-<li>I'm currently learning C, Python, HTML, CSS & JavaScript</li>
-<li>I'm looking to collaborate on open source </li>
-<li>Connect with me: I'm sharing my SE journey on twitter</li>
-<li>Fun fact: I speak 7 languages</li>
+<li>:zap: I'm currently workinking on other frontend projects on freecodecamp</li> 
+<li>:zap: I'm currently learning C, Python, HTML, CSS & JavaScript</li>
+<li>:zap: I'm looking to collaborate on open source </li>
+<li> Connect with me: I'm sharing my SE journey on twitter:green_heart:</li>
+<li>Fun fact: I speak 7 languages :wink:</li>
 </ul></h4>
 
 <p align="left"> <a href="https://twitter.com/likeaneagle25" target="blank"><img src="https://img.shields.io/twitter/follow/likeaneagle25?logo=twitter&style=for-the-badge" alt="likeaneagle25" /></a> </p>

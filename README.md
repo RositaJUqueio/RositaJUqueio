@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rosita Jose Uqueio</h1>
 <h3 align="center"> I am an aspiring Software Engineer, currently enrolled at ALX for a 12-Month Software Engineering program</h3>
 <h4 align="left"><ul>
-<li>:zap: I'm currently workinking on other frontend projects on freecodecamp</li> 
+<li>:zap: I'm currently working on other frontend projects on freecodecamp</li> 
 <li>:zap: I'm currently learning C, Python, HTML, CSS & JavaScript</li>
 <li>:zap: I'm looking to collaborate on open source </li>
 <li> Connect with me: I'm sharing my SE journey on twitter:green_heart:</li>
@@ -13,7 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/likeaneagle25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="likeaneagle25" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rosita (josé) uqueio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rosita (josé) uqueio" height="30" width="40" /></a>
+  
+<a href="linkedin.com/in/rosita-uqueio-b80320112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rosita (josé) uqueio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

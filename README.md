@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/likeaneagle25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="likeaneagle25" height="30" width="40" /></a>
   
-<a href="[linkedin.com/in/rosita-uqueio-b80320112](https://www.linkedin.com/in/rosita-uqueio-b80320112/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rosita (josé) uqueio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rosita-uqueio-b80320112/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rosita (josé) uqueio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

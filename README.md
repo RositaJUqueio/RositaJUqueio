@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rosita Jose Uqueio</h1>
 <h3 align="center">an aspiring Software Engineer currently enrolled in the Software Engineering program at ALX. <br>I'm passionate about learning and personal growth, and my inquisitive nature drives me to approach challenges with creativity and effectiveness.</h3>
-<h4 align="left"><ul>
+<h5 align="left"><ul>
 <li>:zap: I'm actively working on frontend projects through FreeCodeCamp, building practical skills that complement my academic journey.</li> 
 <li>:zap: My diverse learning journey includes mastering languages like C, Python, HTML, CSS, and JavaScript.</li>
 <li>:zap: Open source collaboration is on my radar. I'm eager to contribute and learn from the broader developer community. </li>
-<li> Connect with me: I'm sharing my Software Engineering journey on Twitter:green_heart:</li>
-<li>Fun fact: I'm a polyglot and speak seven languages, which speaks to my love for diverse perspectives and problem-solving :wink:</li>
-</ul></h4>
+<li>:zap: Connect with me: I'm sharing my Software Engineering journey on Twitter:green_heart:</li>
+<li>:zap: Fun fact: I'm a polyglot and speak seven languages:wink:, which speaks to my love for diverse perspectives and problem-solving </li>
+</ul></h5>
 
 <p align="left"> <a href="https://twitter.com/likeaneagle25" target="blank"><img src="https://img.shields.io/twitter/follow/likeaneagle25?logo=twitter&style=for-the-badge" alt="likeaneagle25" /></a> </p>
 

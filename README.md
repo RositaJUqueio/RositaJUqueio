@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rosita Jose Uqueio</h1>
+<body style="color: white;">
+<h1  align="center">Hi 👋, I'm Rosita Jose Uqueio</h1>
 <h3 align="center">an aspiring Software Engineer currently enrolled in the Software Engineering program at ALX. <br>I'm passionate about learning and personal growth, and my inquisitive nature drives me to approach challenges with creativity and effectiveness.</h3>
 <h4 align="left"><ul>
 <li>:zap: I'm actively working on frontend projects through FreeCodeCamp, building practical skills that complement my academic journey.</li> 
@@ -28,3 +29,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rositajuqueio&" alt="rositajuqueio" /></p>
+</body>
